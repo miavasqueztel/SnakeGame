@@ -13,8 +13,11 @@ Un juego simple pero adictivo, hecho con HTML, CSS y JavaScript puro, donde tu o
 
 ## 🖼️ Vista previa
 
-![Snake Game Vista 1](https://i.ibb.co/GQV7FMN9/snake2.jpg)
+![snake](https://i.ibb.co/hFWBVSRs/snake.jpg)
+
 ![Snake Game Vista 2](https://i.ibb.co/GQV7FMN9/snake2.jpg)
+
+
 
 
 ---
